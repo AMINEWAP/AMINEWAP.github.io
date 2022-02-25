@@ -1,0 +1,40 @@
+
+div.header_paneltop_header{
+    text-align: center;
+    font-weight: bold;
+    color : #A4A400;
+    background-color:#F0F0F0;
+    font-family:Lucida Sans Unicode, Helvetica, Arial, or any sans-serif ;
+    font-size: 22pt;
+    text-decoration: underline;
+}
+div.header_panel>h2{
+    text-align: left;
+    font: 18pt;
+    font-weight: bold;
+    color : #A4A400;
+    background-color:#F0F0F0;
+    font-family:Lucida Sans Unicode, Helvetica, Arial, or any sans-serif ;
+    text-decoration: underline;
+}
+
+body{
+    background-color: white;
+    color: #404040 ;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+
+}
+a{ 
+    color: #A4A400 ;
+
+}
+div.user_comment{
+    font-style: italic;
+    background-color: #FFFFA8 ;
+}
+span.bold{
+    font-weight: bold;
+}
+.footer{
+text-align: right;
+}

@@ -1,0 +1,29 @@
+h2{
+    color: cadetblue ;
+    text-shadow: #adafb1;
+    font-weight: bold;
+
+}
+body {
+    background: #ded9d9;
+    
+}
+footer {
+    height: 90px;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    bottom: 0;
+    width: 99%;
+    font-size: 9pt;
+    background: #adafb1;
+    justify-content: space-between;
+}
+footer>div {
+    padding: 15px;
+}
+
+p,span{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
